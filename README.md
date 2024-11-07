@@ -25,3 +25,5 @@ Easy To Deploy 🤗
 [Support ❤️](https://t.me/TamilSupport) 
 
 Report your problem along with your name to This Person 📲 [iMvEtRi🧑‍💻](https://t.me/iMvEtRi) 😪
+
+[herokudelop](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/samjaco01)
